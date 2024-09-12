@@ -99,12 +99,3 @@ If you'd like to contribute to the project, please fork the repository and submi
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## How to Use Tkinter?
-_Tkinter is a built-in Python module used for building GUIs. It provides various widgets like buttons, labels, text boxes, and more, which can be used to create windows and applications. For a comprehensive guide, refer to the [official Tkinter documentation](https://docs.python.org/3/library/tkinter.html)._
-
-## Best Figma Practices
-- **Start with a clear structure:** Organize your design files and pages.
-- **Use auto-layout and components:** This will help in maintaining consistency across your design.
-- **Use Figma's prototyping features:** Create interactive mockups to visualize the user flow.
-- **Leverage Figma's community resources:** Utilize templates and plugins available in the Figma community to speed up your design process.

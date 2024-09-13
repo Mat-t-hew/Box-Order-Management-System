@@ -80,7 +80,7 @@ class StaffPortal(tk.Frame):
     def go_back(self):
         self.parent.show_frame(StartPage)
 
-# Run the application
+# Run the applications
 if __name__ == "__main__":
     app = Application()
     app.mainloop()
